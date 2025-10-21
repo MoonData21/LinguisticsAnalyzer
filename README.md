@@ -65,4 +65,4 @@ python -m spacy download en_core_web_sm
 
 Due to the NLP in the project, just run the project from the command line instead of uploading it to the Streamlit Cloud. 
 
-Just run streamlit run app.py in the command line or powershell.
+Just run streamlit run app.py in the command line or powershell after installing the dependencies.

@@ -1,7 +1,9 @@
 streamlit
 spacy
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0.tar.gz
 textblob
 wordcloud
 matplotlib
 pandas
+setuptools
+wheel
